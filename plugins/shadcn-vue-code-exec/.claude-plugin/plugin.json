@@ -7,9 +7,14 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["vue", "nuxt", "ui", "components", "shadcn", "code-execution"],
+  "keywords": [
+    "vue",
+    "nuxt",
+    "ui",
+    "components",
+    "shadcn",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

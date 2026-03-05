@@ -7,9 +7,12 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["authentication", "stack-auth", "auth", "code-execution"],
+  "keywords": [
+    "authentication",
+    "stack-auth",
+    "auth",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

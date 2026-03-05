@@ -7,9 +7,12 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["mcp", "code-execution", "migration", "token-reduction"],
+  "keywords": [
+    "mcp",
+    "code-execution",
+    "migration",
+    "token-reduction"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

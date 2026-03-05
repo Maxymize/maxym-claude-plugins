@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["posthog", "analytics", "feature-flags", "experiments", "code-execution"],
+  "keywords": [
+    "posthog",
+    "analytics",
+    "feature-flags",
+    "experiments",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

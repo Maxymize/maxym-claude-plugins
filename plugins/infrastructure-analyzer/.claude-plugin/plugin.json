@@ -7,9 +7,12 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["documentation", "infrastructure", "analysis", "architecture"],
+  "keywords": [
+    "documentation",
+    "infrastructure",
+    "analysis",
+    "architecture"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

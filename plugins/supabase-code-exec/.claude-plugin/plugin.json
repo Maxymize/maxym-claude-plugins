@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["supabase", "postgres", "database", "sql", "code-execution"],
+  "keywords": [
+    "supabase",
+    "postgres",
+    "database",
+    "sql",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

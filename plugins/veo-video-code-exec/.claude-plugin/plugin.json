@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["ai", "video", "veo", "google", "code-execution"],
+  "keywords": [
+    "ai",
+    "video",
+    "veo",
+    "google",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

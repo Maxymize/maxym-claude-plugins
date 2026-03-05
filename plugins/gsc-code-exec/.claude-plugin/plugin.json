@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["google", "seo", "search-console", "analytics", "code-execution"],
+  "keywords": [
+    "google",
+    "seo",
+    "search-console",
+    "analytics",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

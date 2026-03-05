@@ -7,9 +7,14 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["privacy", "gdpr", "ccpa", "consent", "cookie-banner", "nextjs"],
+  "keywords": [
+    "privacy",
+    "gdpr",
+    "ccpa",
+    "consent",
+    "cookie-banner",
+    "nextjs"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["mcp", "server", "builder", "python", "typescript"],
+  "keywords": [
+    "mcp",
+    "server",
+    "builder",
+    "python",
+    "typescript"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

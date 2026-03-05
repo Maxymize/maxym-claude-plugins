@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Curated collection of productivity and development skills for Claude Code by MAXYM. Includes Code Execution skills (99%+ token reduction), UI component tools, infrastructure analyzers, and MCP builders.",
-    "version": "1.0.0"
+    "version": "1.0.01"
   },
   "plugins": [
     {

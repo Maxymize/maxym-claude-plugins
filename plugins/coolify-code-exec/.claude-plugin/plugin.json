@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["coolify", "devops", "deployment", "self-hosted", "code-execution"],
+  "keywords": [
+    "coolify",
+    "devops",
+    "deployment",
+    "self-hosted",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

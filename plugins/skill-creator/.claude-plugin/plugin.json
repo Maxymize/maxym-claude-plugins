@@ -7,9 +7,12 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["skills", "creator", "builder", "guide"],
+  "keywords": [
+    "skills",
+    "creator",
+    "builder",
+    "guide"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

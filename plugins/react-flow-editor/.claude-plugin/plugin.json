@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["react-flow", "diagrams", "editor", "nodes", "visualization"],
+  "keywords": [
+    "react-flow",
+    "diagrams",
+    "editor",
+    "nodes",
+    "visualization"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

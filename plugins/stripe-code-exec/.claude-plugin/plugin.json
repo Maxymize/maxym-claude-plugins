@@ -7,9 +7,13 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["stripe", "payments", "subscriptions", "invoices", "code-execution"],
+  "keywords": [
+    "stripe",
+    "payments",
+    "subscriptions",
+    "invoices",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }

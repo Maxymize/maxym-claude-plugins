@@ -7,9 +7,12 @@
     "email": "info@maxymizebusiness.com"
   },
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
-  "keywords": ["convex", "database", "backend", "code-execution"],
+  "keywords": [
+    "convex",
+    "database",
+    "backend",
+    "code-execution"
+  ],
   "license": "MIT",
-  "components": {
-    "skills": ["skills/"]
-  }
+  "skills": "./skills/"
 }
