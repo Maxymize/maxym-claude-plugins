@@ -1,0 +1,15 @@
+{
+  "name": "nanobanana-image-code-exec",
+  "version": "1.0.0",
+  "description": "Generate and edit images using Google Gemini 3 Pro (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["ai", "images", "gemini", "google", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

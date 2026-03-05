@@ -1,0 +1,15 @@
+{
+  "name": "infrastructure-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze project codebase and generate comprehensive infrastructure documentation",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["documentation", "infrastructure", "analysis", "architecture"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

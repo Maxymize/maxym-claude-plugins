@@ -1,0 +1,15 @@
+{
+  "name": "react-flow-editor",
+  "version": "1.0.0",
+  "description": "Expert skill for building interactive node-based diagram editors with React Flow",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["react-flow", "diagrams", "editor", "nodes", "visualization"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

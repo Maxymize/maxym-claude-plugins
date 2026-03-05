@@ -1,0 +1,15 @@
+{
+  "name": "c15t-consent",
+  "version": "1.0.0",
+  "description": "Implement GDPR/CCPA-compliant consent management with c15t",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["privacy", "gdpr", "ccpa", "consent", "cookie-banner", "nextjs"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

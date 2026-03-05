@@ -1,0 +1,15 @@
+{
+  "name": "magic-ui-code-exec",
+  "version": "1.0.0",
+  "description": "Get animated UI components from Magic UI (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["ui", "components", "animation", "landing-page", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

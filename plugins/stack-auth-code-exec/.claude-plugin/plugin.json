@@ -1,0 +1,15 @@
+{
+  "name": "stack-auth-code-exec",
+  "version": "1.0.0",
+  "description": "Access Stack Auth documentation via Code Execution pattern (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["authentication", "stack-auth", "auth", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

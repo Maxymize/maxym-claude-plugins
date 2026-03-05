@@ -1,0 +1,15 @@
+{
+  "name": "sentry-code-exec",
+  "version": "1.0.0",
+  "description": "Direct Sentry API access for error tracking and issue management (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["sentry", "error-tracking", "monitoring", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

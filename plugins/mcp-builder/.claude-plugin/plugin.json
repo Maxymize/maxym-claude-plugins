@@ -1,0 +1,15 @@
+{
+  "name": "mcp-builder",
+  "version": "1.0.0",
+  "description": "Guide for creating high-quality MCP servers for LLM tool integration",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["mcp", "server", "builder", "python", "typescript"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

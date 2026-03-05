@@ -1,0 +1,15 @@
+{
+  "name": "railway-code-exec",
+  "version": "1.0.0",
+  "description": "Direct Railway GraphQL API access for deployment and infrastructure management (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["railway", "deployment", "devops", "infrastructure", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

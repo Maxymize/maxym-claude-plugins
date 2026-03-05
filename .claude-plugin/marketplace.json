@@ -1,0 +1,181 @@
+{
+  "name": "maxym-skills",
+  "owner": {
+    "name": "MAXYM - Maximilian Giurastante",
+    "email": "info@maxymizebusiness.com"
+  },
+  "metadata": {
+    "description": "Curated collection of productivity and development skills for Claude Code by MAXYM. Includes Code Execution skills (99%+ token reduction), UI component tools, infrastructure analyzers, and MCP builders.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "c15t-consent",
+      "source": "./plugins/c15t-consent",
+      "description": "Implement GDPR/CCPA-compliant consent management with c15t",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["privacy", "gdpr", "ccpa", "consent", "cookie-banner"]
+    },
+    {
+      "name": "code-execution-creator",
+      "source": "./plugins/code-execution-creator",
+      "description": "Create Code Execution skills from MCP servers for 99%+ token reduction",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["mcp", "code-execution", "migration", "token-reduction"]
+    },
+    {
+      "name": "convex-code-exec",
+      "source": "./plugins/convex-code-exec",
+      "description": "Direct Convex API access for project management and function execution (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["convex", "database", "backend", "code-execution"]
+    },
+    {
+      "name": "coolify-code-exec",
+      "source": "./plugins/coolify-code-exec",
+      "description": "Direct Coolify REST API access for application management and deployments (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["coolify", "devops", "deployment", "self-hosted"]
+    },
+    {
+      "name": "gsc-code-exec",
+      "source": "./plugins/gsc-code-exec",
+      "description": "Direct Google Search Console API access for search analytics and SEO (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["google", "seo", "search-console", "analytics"]
+    },
+    {
+      "name": "infrastructure-analyzer",
+      "source": "./plugins/infrastructure-analyzer",
+      "description": "Analyze project codebase and generate comprehensive infrastructure documentation",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["documentation", "infrastructure", "analysis", "architecture"]
+    },
+    {
+      "name": "magic-ui-code-exec",
+      "source": "./plugins/magic-ui-code-exec",
+      "description": "Get animated UI components from Magic UI (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["ui", "components", "animation", "landing-page"]
+    },
+    {
+      "name": "mcp-builder",
+      "source": "./plugins/mcp-builder",
+      "description": "Guide for creating high-quality MCP servers for LLM tool integration",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["mcp", "server", "builder", "python", "typescript"]
+    },
+    {
+      "name": "nanobanana-image-code-exec",
+      "source": "./plugins/nanobanana-image-code-exec",
+      "description": "Generate and edit images using Google Gemini 3 Pro (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["ai", "images", "gemini", "google"]
+    },
+    {
+      "name": "neon-code-exec",
+      "source": "./plugins/neon-code-exec",
+      "description": "Direct Neon Serverless Postgres API access for database management (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["neon", "postgres", "database", "serverless"]
+    },
+    {
+      "name": "openai-image-code-exec",
+      "source": "./plugins/openai-image-code-exec",
+      "description": "Generate and edit images using OpenAI DALL-E 3 (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["ai", "images", "openai", "dall-e"]
+    },
+    {
+      "name": "posthog-code-exec",
+      "source": "./plugins/posthog-code-exec",
+      "description": "Direct PostHog API access for analytics, feature flags, and experiments (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["posthog", "analytics", "feature-flags", "experiments"]
+    },
+    {
+      "name": "railway-code-exec",
+      "source": "./plugins/railway-code-exec",
+      "description": "Direct Railway GraphQL API access for deployment and infrastructure management (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["railway", "deployment", "devops", "infrastructure"]
+    },
+    {
+      "name": "react-flow-editor",
+      "source": "./plugins/react-flow-editor",
+      "description": "Expert skill for building interactive node-based diagram editors with React Flow",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["react-flow", "diagrams", "editor", "nodes", "visualization"]
+    },
+    {
+      "name": "sentry-code-exec",
+      "source": "./plugins/sentry-code-exec",
+      "description": "Direct Sentry API access for error tracking and issue management (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["sentry", "error-tracking", "monitoring"]
+    },
+    {
+      "name": "shadcn-vue-code-exec",
+      "source": "./plugins/shadcn-vue-code-exec",
+      "description": "Get Vue components from shadcn-vue (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["vue", "nuxt", "ui", "components", "shadcn"]
+    },
+    {
+      "name": "skill-creator",
+      "source": "./plugins/skill-creator",
+      "description": "Guide for creating effective Claude Code skills",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["skills", "creator", "builder", "guide"]
+    },
+    {
+      "name": "stack-auth-code-exec",
+      "source": "./plugins/stack-auth-code-exec",
+      "description": "Access Stack Auth documentation via Code Execution pattern (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["authentication", "stack-auth", "auth"]
+    },
+    {
+      "name": "stripe-code-exec",
+      "source": "./plugins/stripe-code-exec",
+      "description": "Direct Stripe API access for payments, subscriptions, and invoices (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["stripe", "payments", "subscriptions", "invoices"]
+    },
+    {
+      "name": "supabase-code-exec",
+      "source": "./plugins/supabase-code-exec",
+      "description": "Direct PostgreSQL/Supabase database connection (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["supabase", "postgres", "database", "sql"]
+    },
+    {
+      "name": "veo-video-code-exec",
+      "source": "./plugins/veo-video-code-exec",
+      "description": "Generate videos using Google Veo 3.1 (99%+ token reduction)",
+      "version": "1.0.0",
+      "author": { "name": "MAXYM" },
+      "keywords": ["ai", "video", "veo", "google"]
+    }
+  ]
+}

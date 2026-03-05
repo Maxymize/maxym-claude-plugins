@@ -1,0 +1,15 @@
+{
+  "name": "openai-image-code-exec",
+  "version": "1.0.0",
+  "description": "Generate and edit images using OpenAI DALL-E 3 (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["ai", "images", "openai", "dall-e", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

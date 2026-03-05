@@ -1,0 +1,15 @@
+{
+  "name": "gsc-code-exec",
+  "version": "1.0.0",
+  "description": "Direct Google Search Console API access for search analytics and SEO (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["google", "seo", "search-console", "analytics", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

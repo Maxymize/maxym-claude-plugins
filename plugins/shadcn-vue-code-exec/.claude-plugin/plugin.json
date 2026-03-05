@@ -1,0 +1,15 @@
+{
+  "name": "shadcn-vue-code-exec",
+  "version": "1.0.0",
+  "description": "Get Vue components from shadcn-vue (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["vue", "nuxt", "ui", "components", "shadcn", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

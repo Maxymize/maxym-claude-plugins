@@ -1,0 +1,15 @@
+{
+  "name": "neon-code-exec",
+  "version": "1.0.0",
+  "description": "Direct Neon Serverless Postgres API access for database management (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["neon", "postgres", "database", "serverless", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

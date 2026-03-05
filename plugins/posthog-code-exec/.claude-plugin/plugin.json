@@ -1,0 +1,15 @@
+{
+  "name": "posthog-code-exec",
+  "version": "1.0.0",
+  "description": "Direct PostHog API access for analytics, feature flags, and experiments (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["posthog", "analytics", "feature-flags", "experiments", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}

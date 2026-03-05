@@ -1,0 +1,15 @@
+{
+  "name": "stripe-code-exec",
+  "version": "1.0.0",
+  "description": "Direct Stripe API access for payments, subscriptions, and invoices (99%+ token reduction)",
+  "author": {
+    "name": "MAXYM",
+    "email": "info@maxymizebusiness.com"
+  },
+  "repository": "https://github.com/Maxymize/maxym-claude-plugins",
+  "keywords": ["stripe", "payments", "subscriptions", "invoices", "code-execution"],
+  "license": "MIT",
+  "components": {
+    "skills": ["skills/"]
+  }
+}
