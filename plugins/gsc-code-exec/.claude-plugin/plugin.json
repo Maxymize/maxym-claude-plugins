@@ -1,7 +1,7 @@
 {
   "name": "gsc-code-exec",
-  "version": "1.0.0",
-  "description": "Direct Google Search Console API access for search analytics and SEO (99%+ token reduction)",
+  "version": "2.0.0",
+  "description": "SEO command centre across Google Search Console, Bing Webmaster Tools and IndexNow, with snapshot history and continuous improvement recommendations (99%+ token reduction)",
   "author": {
     "name": "MAXYM",
     "email": "info@maxymizebusiness.com"
@@ -9,8 +9,13 @@
   "repository": "https://github.com/Maxymize/maxym-claude-plugins",
   "keywords": [
     "google",
+    "bing",
+    "indexnow",
     "seo",
     "search-console",
+    "webmaster-tools",
+    "indexing",
+    "monitoring",
     "analytics",
     "code-execution"
   ],
